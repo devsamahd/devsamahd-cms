@@ -71,8 +71,7 @@ export default {
           {title: 'Javascript', value: 'js'},
           {title: 'HTML', value: 'html'},
           {title: 'CSS', value: 'css'},
-          {title: 'Rust', value: 'rust', mode:'rust'},
-          {title: 'SASS', value: 'sass'},
+          {title: 'SASS', value: 'sass'}
         ]
       }
     }

@@ -41,5 +41,15 @@ export default {
             type: "array",
             of: [{type: 'reference', to: {type: 'category'}}]
         },
+        {
+            name: "github",
+            title: "Github",
+            type: "string"
+        },
+        {
+            name: "address",
+            title: "Address",
+            type: "string"
+        },
     ]
 }

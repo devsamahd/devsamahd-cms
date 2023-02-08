@@ -71,7 +71,8 @@ export default {
           {title: 'Javascript', value: 'js'},
           {title: 'HTML', value: 'html'},
           {title: 'CSS', value: 'css'},
-          {title: 'SASS', value: 'sass'}
+          {title: 'SASS', value: 'sass'},
+          {title: 'Bash', value: 'bash'}
         ]
       }
     }

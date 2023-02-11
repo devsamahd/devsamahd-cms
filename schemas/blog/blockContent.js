@@ -72,7 +72,9 @@ export default {
           {title: 'HTML', value: 'html'},
           {title: 'CSS', value: 'css'},
           {title: 'SASS', value: 'sass'},
-          {title: 'Bash', value: 'bash'}
+          {title: 'Bash', value: 'bash'},
+          {title:'JSX', value:'jsx'},
+          {title:'PowerShell', value:'powershell'}  
         ]
       }
     }
